@@ -1,0 +1,20 @@
+#head1 {
+    background-color: aquamarine;
+    color: brown;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 1opx;
+    padding: 1px;
+    border-color: rgb(29, 143, 151);
+}
+
+#body {
+    background-color: rgb(194, 199, 199);
+}
+
+p {
+    text-align:center;
+    margin-right: auto;
+}
